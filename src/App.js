@@ -15,8 +15,6 @@ function App() {
       }
     }} >
       Here is some placeholder information
-      <br></br>
-      I hope this gets added
     </Box>
   );
 }
